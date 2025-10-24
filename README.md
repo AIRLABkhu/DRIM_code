@@ -21,7 +21,7 @@ Follow the instructions below to begin traning our model.
 
 Follow the instructions below to begin testing our model.
 
-The best weights are [here]([https://drive.google.com/drive/folders/1ANEa7L_j5Oz2kwvDbXlFHDLBR0aHwXF1?usp=drive_link](https://drive.google.com/file/d/1v4A00Ns-z4awYoU_eqhBWGXBLPWYGozn/view?usp=drive_link)).
+The best weights are [here]([https://drive.google.com/drive/folders/1ANEa7L_j5Oz2kwvDbXlFHDLBR0aHwXF1?usp=drive_link](https://drive.google.com/file/d/1v4A00Ns-z4awYoU_eqhBWGXBLPWYGozn/view?usp=drive_link).
 ```
 . run_test.sh
 ```
